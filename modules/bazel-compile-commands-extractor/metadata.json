@@ -1,0 +1,17 @@
+{
+    "homepage": "https://github.com/chriskohlhoff/asio",
+    "maintainers": [
+        {
+            "email": "cccuroky@gmail.com",
+            "github": "curoky",
+            "name": "curoky"
+        }
+    ],
+    "repository": [
+        "github:hedronvision/bazel-compile-commands-extractor"
+    ],
+    "versions": [
+        "1.0.0"
+    ],
+    "yanked_versions": {}
+}
